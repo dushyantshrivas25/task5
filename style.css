@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    width: 90%;
+    height: 90%;
+    /* background-color: pink; */
+}
+.section1{
+    /* background-color: green; */
+    height: 30%;
+    width: 100%;
+}
+.section2{
+    /* background-color: rgb(65, 34, 34); */
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.section3{
+    /* background-color: rgb(85, 85, 186); */
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.box{
+    height: 30vmin;
+    width: 30vmin;
+}
+.box1{
+    background-color: aquamarine;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: yellowgreen;
+}
